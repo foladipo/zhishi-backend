@@ -8,19 +8,26 @@ You've definitely being in this situation before:
   > person you answered.
 
 If only there were such applications that helps you aggregate all your answers in one place, so that fellows don't keep coming to you for answers to commnon questions.
-  > You don't need to wish anymore, because Zhishi is here
+  > You don't need to wish anymore, because Zhishi is here.
+  
+## Requirements
+In order to run this project, make sure you have the following software installed:
+- Ruby: You may find further instructions at [this link](www.ruby-lang.org).
+- The Bundler Ruby gem: Checkout [this link](http://bundler.io/v1.1/) for further instructions.
+- Figaro: This is a Ruby gem. You may find installation instructions at [this link](https://github.com/laserlemon/figaro#getting-started).
 
-## For the core developers:
 
-  Clone the project:
+## Installation and Setup
+  
+  - Clone the project:
 
   ```shell
     git clone git@github.com:andela-iamadi/zhishi-backend.git
   ```
 
-  Install the libraries
+  - Install the libraries
   ```shell
-    bundle [install]
+    bundle install
   ```
 
 
@@ -47,7 +54,7 @@ If only there were such applications that helps you aggregate all your answers i
 
   Install the libraries
   ```shell
-    bundle [install]
+    bundle install
   ```
 
 
